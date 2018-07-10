@@ -1,0 +1,23 @@
+{
+  "name": "interview_coding_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "coverage": "nyc --reporter=text mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^5.2.0",
+    "nyc": "^12.0.2"
+  },
+  "nyc": {
+    "extension": [
+      ".js"
+    ]
+  }
+}
