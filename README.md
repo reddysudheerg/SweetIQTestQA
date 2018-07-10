@@ -5,7 +5,7 @@
 ## Installation
 ```
 git clone https://github.com/reddysudheerg/SweetIQTestQA.git
-cd interview_coding_assignment
+cd SweetIQTestQA
 ```
 ## Install Npm packages
 ```
